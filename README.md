@@ -1,4 +1,4 @@
-Here's a comprehensive list of tools and libraries organized by core development areas that you might need when building React applications.
+Here's a comprehensive list of tools and libraries organized by core development areas that you might need when building React applications in 2025.
 
 ## 1. Core Application Foundation
 - **Build System**: Vite, Webpack, Rollup, esbuild, Turbopack
@@ -56,3 +56,14 @@ Here's a comprehensive list of tools and libraries organized by core development
 - **Site Generation**: React Snap, React-snap-sitemap
 
 The key to a successful React project is selecting the right tools for your specific needs while maintaining a balance between functionality and simplicity.
+
+---
+
+### If you like it. Don't forget to give star ⭐
+
+## ✅ Contributions
+
+- Contribution would be of great help
+- add more tools / websites
+- Send pull request
+
